@@ -1,0 +1,3 @@
+/Users/marcootero/CLionProjects/Solhem_End/cmake-build-debug/CMakeFiles/Solhem_End.dir
+/Users/marcootero/CLionProjects/Solhem_End/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcootero/CLionProjects/Solhem_End/cmake-build-debug/CMakeFiles/rebuild_cache.dir
